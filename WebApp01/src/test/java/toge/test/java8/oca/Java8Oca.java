@@ -16,8 +16,8 @@ public class Java8Oca {
 
 	@Test
 	public void literal(){
-
 //		long max = 3123456789;
+		System.out.println("test java 8 OCA");
 	
 	
 	}
