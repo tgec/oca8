@@ -16,10 +16,7 @@ public class Java8Oca {
 
 	@Test
 	public void literal(){
-System.out.println("test8 java 8 OCA123456123555555555");
-//		long max = 3123456789;
-	
-	
+		System.out.println("commit02");
 	}
 	
 }
