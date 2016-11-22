@@ -16,7 +16,7 @@ public class Java8Oca {
 
 	@Test
 	public void literal(){
-		System.out.println("commit04");
+		System.out.println("commit05");
 	}
 	
 }
