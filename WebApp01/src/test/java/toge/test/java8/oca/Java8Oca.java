@@ -19,6 +19,9 @@ public class Java8Oca {
 		System.out.println("commit01");
 		System.out.println("commit02");
 		System.out.println("commit03");
+		System.out.println("committ4");
+		System.out.println("committ5");
+		System.out.println("committ6");
 	}
 	
 }
